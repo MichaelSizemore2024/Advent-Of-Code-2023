@@ -1,0 +1,2 @@
+# Advent Of Code 2023
+The purpose of this repository is to contain my own personal solutions to the Advent of Code coding challenges from 2023. This allows me to have a way to neatly store my personal solutions while providing others an opportunity to learn about different approaches to these problems utilizing Go. More information about Advent of Code and the programming puzzles it entails can be found at https://adventofcode.com/

@@ -11,6 +11,7 @@ import (
 // Converts input into single digit, or returns what was given
 func wordToNumber(word string) string {
 	numberMap := map[string]string{
+		"zero":  "0",
 		"one":   "1",
 		"two":   "2",
 		"three": "3",
